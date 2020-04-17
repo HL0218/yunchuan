@@ -1,0 +1,1 @@
+export default class hatchway {} //保存到路由信息到公共配置中
